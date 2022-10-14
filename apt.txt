@@ -6,3 +6,12 @@ xfce4-session
 xfce4-settings
 xorg
 xubuntu-icon-theme
+'^libxcb.*-dev'
+libx11-xcb-dev
+libglu1-mesa-dev
+libxrender-dev
+libxi-dev
+libxkbcommon-dev
+libxkbcommon-x11-dev
+libqt5x11extras5-dev
+libxcb-xinerama0
